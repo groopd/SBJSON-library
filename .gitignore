@@ -1,0 +1,5 @@
+.*.swp
+build/
+*.pbxuser
+*.mode1v3
+.DS_Store
